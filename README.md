@@ -1,4 +1,4 @@
-# Jornada_Python
+# Jornada Python
 Curso Jornada Python - Hashtag. 
 - Python Power-Up: Automação de tarefas e criação de Bots;
 - Python Insights: Análise de Dados com Python;
